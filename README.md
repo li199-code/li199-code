@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @li199-code
 - 👀 I’m interested in python, javascript, php
 - 🌱 I’m currently learning full stack web development
-- 📫 How to reach me - 1412697557@qq.com
+- 📫 How to reach me - realjasonlee4000@gmail.com
 
 
 <!---
