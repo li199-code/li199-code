@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @li199-code
-- 👀 I’m interested in python, javascript, php
+- 👀 I’m interested in computer vision, image processing, AI
 - 🌱 I’m currently learning full stack web development
 - 📫 How to reach me - realjasonlee4000@gmail.com
-
+- 💕 my blog - blog.jl98.xyz
 
 <!---
 li199-code/li199-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
