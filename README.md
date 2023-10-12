@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @li199-code
-- 👀 I’m interested in computer vision, image processing, AI
-- 🌱 I’m currently learning full stack web development
+- 👀 I’m interested in machine learning, fullstack development, AI
 - 📫 How to reach me - realjasonlee4000@gmail.com
 - 💕 my blog - https://blog.jasonleehere.com
 
